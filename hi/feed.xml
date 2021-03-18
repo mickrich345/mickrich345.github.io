@@ -1,0 +1,24 @@
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+
+<channel>
+
+<title>
+<![CDATA[ Mo in the Morning ]]>
+</title>
+
+<description>
+<![CDATA[ Mo the Man discusses all the ways he gets it done. ]]>
+</description>
+<language>en</language>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<itunes:category text="News" />
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>
+<![CDATA[ Introduction ]]>
+</title>
+<enclosure url="https://media.rss.com/motheman/20210318_194710_52980dba8546c9b0cf6ce323f76b2ba6.mp3" length="362731" type="audio/mp3"/>
+<guid isPermaLink="false">8ddb1223-d95a-440c-9653-5f9684f24d10</guid>
+</item>
+</channel>
+</rss>
