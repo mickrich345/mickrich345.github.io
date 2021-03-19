@@ -1,30 +1,61 @@
 <rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
-
 <channel>
-
 <title>
 <![CDATA[ Mo in the Morning ]]>
 </title>
-
+<link>https://rss.com/podcasts/motheman/</link>
+<atom:link href="https://media.rss.com/motheman/feed.xml" rel="self" type="application/rss+xml"/>
 <description>
 <![CDATA[ Mo the Man discusses all the ways he gets it done. ]]>
 </description>
+<generator>RSS.com</generator>
+<lastBuildDate>Thu, 18 Mar 2021 19:47:14 +0000</lastBuildDate>
 <language>en</language>
+<copyright>
+<![CDATA[ Mo Franko ]]>
+</copyright>
 <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
-<itunes:category text="News" />
-<itunes:explicit>no</itunes:explicit>
+<image>
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+<title>Mo in the Morning</title>
+<link>https://rss.com/podcasts/motheman</link>
+</image>
+<itunes:summary>
+<![CDATA[ Mo the Man discusses all the ways he gets it done. ]]>
+</itunes:summary>
 <podcast:locked owner="mickrich345@gmail.com">No</podcast:locked>
 <itunes:author>Mo Franko</itunes:author>
 <itunes:owner>
 <itunes:name>Mo Franko</itunes:name>
 <itunes:email>mickrich345@gmail.com</itunes:email>
 </itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="News">
+<itunes:category text="Entertainment News"/>
+</itunes:category>
+<itunes:category text="News">
+<itunes:category text="News Commentary"/>
+</itunes:category>
 <item>
 <title>
 <![CDATA[ Introduction ]]>
 </title>
+<itunes:title>
+<![CDATA[ Introduction ]]>
+</itunes:title>
+<itunes:summary>Saying hello to the podcasting world.My first podcast !</itunes:summary>
+<description>
+<![CDATA[ <p>Saying hello to the podcasting world.</p><p>My first podcast !</p> ]]>
+</description>
+<link>https://rss.com/podcasts/motheman/159229</link>
 <enclosure url="https://media.rss.com/motheman/20210318_194710_52980dba8546c9b0cf6ce323f76b2ba6.mp3" length="362731" type="audio/mp3"/>
-<guid isPermaLink="false">8ddb1223-d95a-440c-9653-5f9684f24d10</guid>
+<guid isPermaLink="false">e282b187-157d-89df-3f28-ed6e78858fc2</guid>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<itunes:duration>23</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 18 Mar 2021 19:47:14 GMT</pubDate>
 </item>
 </channel>
 </rss>
